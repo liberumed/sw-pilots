@@ -13,3 +13,4 @@ Run ```mix deps.get```
 
 ## TBD
 - Add tests
+- Add Dockerfile
